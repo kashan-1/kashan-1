@@ -3,7 +3,7 @@
 <!-- My name is Kashan Ali and i am a DevOps Engineer | AWS Solution Architect  -->
 
 
-- 🔭 I’m currently working on DevOps Tools and AWS|GCP.
+- 🔭 I’m currently working on DevOps Tools and AWS | GCP.
 - 🌱 I’m currently learning different new DevOps tools.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
