@@ -12,7 +12,6 @@
 - 🔭 I’m currently working on DevOps Tools and AWS | GCP.
 - 🌱 I’m currently learning different new DevOps tools.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 
 <!---
