@@ -32,7 +32,7 @@ You can click the Preview link to take a look at your changes.
 <!--  Tools sections  -->
 Languages and tools:
 
- <p align="center">
+><div align="center">
 
       <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
@@ -44,7 +44,7 @@ Languages and tools:
       <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="60" height="50"/>
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="55"/>
-</p>
+<div>
 <!--  Stats sections  -->
 <div align="center">
 
