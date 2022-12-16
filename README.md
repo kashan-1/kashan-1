@@ -32,8 +32,18 @@ You can click the Preview link to take a look at your changes.
 <!--  Tools sections  -->
 Languages and tools:
 
-> ![git](https://user-images.githubusercontent.com/75361545/205700966-c9f1c0b6-24c6-4453-a007-a51b47376908.png) ![linux](https://user-images.githubusercontent.com/75361545/205698318-468c188c-be76-4b05-9d58-f204bd6f031d.png) ![sql](https://user-images.githubusercontent.com/75361545/205698297-a4656b08-d931-4f9c-9aa6-e2ec33d14ffe.png) 
-
+> <p align="center">
+      <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
+      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
+      <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="60" height="50"/>
+      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="55"/>
+</p>
 <!--  Stats sections  -->
 <div align="center">
 
