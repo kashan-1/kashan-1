@@ -35,11 +35,11 @@ Languages and tools:
 > ![git](https://user-images.githubusercontent.com/75361545/205700966-c9f1c0b6-24c6-4453-a007-a51b47376908.png) ![linux](https://user-images.githubusercontent.com/75361545/205698318-468c188c-be76-4b05-9d58-f204bd6f031d.png) ![sql](https://user-images.githubusercontent.com/75361545/205698297-a4656b08-d931-4f9c-9aa6-e2ec33d14ffe.png) 
 
 <!--  Stats sections  -->
-<p align="center">
-
+<div align="center">
 [![GitHub Streak](https://streak-stats.demolab.com/?user=kashan-1)](https://git.io/streak-stats)
 [![Kashan Ali](https://github-readme-stats.vercel.app/api?username=kashan-1&count_private=true&show_icons=true&theme=dark)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/kashan-1/kashan-1)) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kashan-1&count_private=true&show_icons=true&theme=dark&layout=compact)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/kashan-1/kashan-1))
-</p>
+</div>
+
 
 <!--  Snake Matrics  -->
 ---
