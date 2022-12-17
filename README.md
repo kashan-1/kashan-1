@@ -59,6 +59,9 @@ Languages and tools:
       <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="vs code" />
       <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="vs code" />
       <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" /> 
+      <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" />
+      <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
+      <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
      
 </p> 
 
@@ -69,6 +72,7 @@ Languages and tools:
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=kashan-1)](https://git.io/streak-stats)
 [![Kashan Ali](https://github-readme-stats.vercel.app/api?username=kashan-1&count_private=true&show_icons=true&theme=dark)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/kashan-1/kashan-1)) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kashan-1&count_private=true&show_icons=true&theme=dark&layout=compact)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/kashan-1/kashan-1))
+
 
 </div>
 
