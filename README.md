@@ -41,8 +41,12 @@ Languages and tools:
       <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="yaml" width="45" height="55"/>
 </p>
+<p align="center">
 
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,wasm)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,nodejs)](https://skills.thijs.gg)
+
+</p>
+
 
 ---
 
