@@ -7,14 +7,6 @@
 ### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 <p align="center">
 
-<!-- My name is Kashan Ali and i am a DevOps Engineer | AWS Solution Architect  -->
-
-
-- 🔭 Always Learning <i>new</i> <b> DevOps Tools and more about AWS | GCP.</b>
-- 🌱 I’m currently ...
-- 💞️ I’m looking to collaborate on ...
-
-
 <!---
 kashan-1/kashan-1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -24,6 +16,7 @@ You can click the Preview link to take a look at your changes.
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 DevOps Engineer | AWS Solution Architect
+- 🔭 Always Learning <i>new</i> <b> DevOps Tools and more about AWS | GCP.</b>
 - 🎓 Master's in 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 (Graduate)  
 - 🔭 I’m currently working on ...
 
