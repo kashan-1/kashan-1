@@ -46,7 +46,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,js,html,css,nodejs,bootstrap,dotnet,raspberrypi&theme=light" />
+    <img src="https://skillicons.dev/icons?i=php,js,html,css,nodejs,bootstrap,dotnet,raspberrypi&theme=dark" />
   </a>
 </p>
 
