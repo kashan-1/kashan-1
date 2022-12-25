@@ -54,7 +54,7 @@ You can click the Preview link to take a look at your changes.
 ---
 
 <p align="center">
-      <img src="https://img.shields.io/badge/Adobe%20Dreamweaver-072401?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white" alt="vs code"/>
+      <img src="https://img.shields.io/badge/Adobe%20Dreamweaver-072401?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=34F400" alt="vs code"/>
       <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="vs code" />
       <img src="https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white" />
       <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="vs code" />
