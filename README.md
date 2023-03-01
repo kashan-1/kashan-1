@@ -87,5 +87,4 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="kashan-ali-29a78b184" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pk.linkedin.com/in/kashan-ali-29a78b184?trk=profile-badge">Kashan Ali</a></div>
               
