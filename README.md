@@ -72,9 +72,8 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=kashan-1)](https://git.io/streak-stats)
-[![Kashan Ali](https://github-readme-stats-sigma-five.vercel.app/api?username=kashan-1&count_private=true&show_icons=true&theme=dark)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/kashan-1/kashan-1)) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kashan-1&count_private=true&show_icons=true&theme=dark&layout=compact)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/kashan-1/kashan-1))
+[![Kashan Ali](https://github-readme-stats-sigma-five.vercel.app/api?username=kashan-1&count_private=true&show_icons=true&theme=dark)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/kashan-1/kashan-1)) [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kashan-1&count_private=true&show_icons=true&theme=dark&layout=compact)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/kashan-1/kashan-1))
 
-<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YulietM&theme=react&line_height=40&hide=css"/> </a>
 
 
 </div>
