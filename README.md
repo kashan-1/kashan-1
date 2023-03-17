@@ -4,7 +4,7 @@
 <p align="center">
 </p>
 
-### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
+### 🅷🅸 🆃🅷🅴🆁🅴 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 <p align="center">
 
 <!---
