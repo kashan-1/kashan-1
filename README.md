@@ -4,7 +4,7 @@
 <p align="center">
 </p>
 
-### 🅷🅸 🆃🅷🅴🆁🅴 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
+### █▓▒­░⡷⠂HI ΓHΞЯΞ⠐⢾░▒▓█ <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 <p align="center">
 
 <!---
