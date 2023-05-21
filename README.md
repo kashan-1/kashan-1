@@ -2,9 +2,9 @@
   <img src= "https://komarev.com/ghpvc/?username=kashan-1&style=for-the-badge">
 </p>
 <p align="center">
-</p>
+</p> 
 
-### █▓▒­░⡷⠂HI ΓHΞЯΞ⠐⢾░▒▓█ <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
+### █▓▒­░⡷⠂HI HI ΓHΞЯΞ⠐⢾░▒▓█ <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 <p align="center">
 
 <!---
