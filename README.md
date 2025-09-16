@@ -18,7 +18,6 @@ You can click the Preview link to take a look at your changes.
 
 ## 🌟 Highlights
 
-## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 Software Systems & DevOps Engineer | AWS Solution Architect
 - 🔭 Always Learning <i>new</i> <b> DevOps Tools and more about AWS | GCP | Azure.</b>
 - 🎓 Master's in 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 (Graduate)  
