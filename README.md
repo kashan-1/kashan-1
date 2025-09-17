@@ -25,7 +25,8 @@ You can click the Preview link to take a look at your changes.
 - Previously worked as a Infrastructure Engineer at Wells fargo | SSA
 - Worked as CPM analyst at UPS
 - Currently working as DevOps/SRE engineer at Sleepnumber - Xgrid.co
-- Worked on an opensource project [XC3](https://github.com/XgridInc/xc3)
+- Worked on an opensource project [XC3](https://github.com/XgridInc/xc3
+- Created an opensource project.
 
 
 📫 How to reach me: 
