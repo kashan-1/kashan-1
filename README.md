@@ -34,6 +34,8 @@ You can click the Preview link to take a look at your changes.
 
 <!--  Tools sections  -->
 :stars: Languages and tools:
+  
+![68747470733a2f2f63646e2e6472696262626c652e636f6d2f7573657275706c6f61642f373732353831342f66696c652f6f726967696e616c2d61643334653561336435383761386139306236353836646536373731303232352e676966](https://github.com/user-attachments/assets/34444045-7381-4a87-a9ae-8e979148af61)
 
 >
 <p align="center">
